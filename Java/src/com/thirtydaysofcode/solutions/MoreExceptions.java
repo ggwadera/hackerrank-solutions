@@ -4,7 +4,9 @@
  * https://www.hackerrank.com/challenges/30-more-exceptions/
  */
 
-package com.thirtydaysofcode;
+package com.thirtydaysofcode.solutions;
+
+import com.thirtydaysofcode.utils.Calculator;
 
 import java.util.*;
 

@@ -3,7 +3,9 @@
  * More Linked Lists
  * https://www.hackerrank.com/challenges/30-linked-list-deletion/
  */
-package com.thirtydaysofcode;
+package com.thirtydaysofcode.solutions;
+
+import com.thirtydaysofcode.utils.Node;
 
 import java.util.HashSet;
 import java.util.Scanner;

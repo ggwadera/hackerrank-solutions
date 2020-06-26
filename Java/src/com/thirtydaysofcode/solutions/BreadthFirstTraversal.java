@@ -3,7 +3,9 @@
  * BST Level-Order Traversal
  * https://www.hackerrank.com/challenges/30-binary-trees/
  */
-package com.thirtydaysofcode;
+package com.thirtydaysofcode.solutions;
+
+import com.thirtydaysofcode.utils.Node;
 
 import java.util.LinkedList;
 import java.util.Queue;

@@ -3,7 +3,9 @@
  * Abstract Classes
  * https://www.hackerrank.com/challenges/30-abstract-classes/
  */
-package com.thirtydaysofcode;
+package com.thirtydaysofcode.solutions;
+
+import com.thirtydaysofcode.utils.Book;
 
 import java.util.*;
 
@@ -31,7 +33,7 @@ public class AbstractClasses {
          *   Print the title, author, and price in the specified format.
          **/
         @Override
-        void display() {
+        public void display() {
             System.out.println("Title: " + this.title);
             System.out.println("Author: " + this.author);
             System.out.println("Price: " + this.price);

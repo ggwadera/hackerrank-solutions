@@ -3,7 +3,7 @@
  * Testing
  * https://www.hackerrank.com/challenges/30-testing/
  */
-package com.thirtydaysofcode;
+package com.thirtydaysofcode.solutions;
 
 import java.util.*;
 

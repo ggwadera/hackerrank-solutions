@@ -4,7 +4,10 @@
  * https://www.hackerrank.com/challenges/30-interfaces/
  */
 
-package com.thirtydaysofcode;
+package com.thirtydaysofcode.solutions;
+
+import com.thirtydaysofcode.utils.AdvancedArithmetic;
+import com.thirtydaysofcode.utils.Calculator;
 
 import java.util.Scanner;
 

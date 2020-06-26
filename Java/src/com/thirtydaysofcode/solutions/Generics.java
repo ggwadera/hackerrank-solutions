@@ -4,25 +4,25 @@
  * https://www.hackerrank.com/challenges/30-generics/
  */
 
-package com.thirtydaysofcode;
+package com.thirtydaysofcode.solutions;
 
 import java.util.*;
 
-class Printer <T> {
+public class Generics {
 
-    /**
-     *    Method Name: printArray
-     *    Print each element of the generic array on a new line. Do not return anything.
-     *    @param A generic array
-     **/
-    public <E> void printArray(E[] array) {
-        for (E element : array) {
-            System.out.println(element.toString());
+    static class Printer <T> {
+
+        /**
+         *    Method Name: printArray
+         *    Print each element of the generic array on a new line. Do not return anything.
+         *    @param array generic array
+         **/
+        public <E> void printArray(E[] array) {
+            for (E element : array) {
+                System.out.println(element.toString());
+            }
         }
     }
-}
-
-public class Generics {
 
     public static void main(String args[]){
         Scanner scanner = new Scanner(System.in);

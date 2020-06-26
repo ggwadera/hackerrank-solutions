@@ -1,12 +1,13 @@
-package com.thirtydaysofcode;
+package com.thirtydaysofcode.utils;
 
 /**
  * Class used in some the challenges.
+ * The methods were written by me.
  * Used in:
  * - MoreExceptions
  * - Interfaces
  */
-class Calculator implements AdvancedArithmetic {
+public class Calculator implements AdvancedArithmetic {
 
     /**
      * Calculates the sum of all the divisors of the number.
@@ -18,6 +19,13 @@ class Calculator implements AdvancedArithmetic {
         return sum;
     }
 
+    /**
+     * Calculates the power of n^p.
+     * @param n number.
+     * @param p exponent.
+     * @return the result of n^p.
+     * @throws IllegalArgumentException
+     */
     public int power(int n, int p) throws IllegalArgumentException {
         if (n < 0 || p < 0) {
             throw new IllegalArgumentException("n and p should be non-negative");

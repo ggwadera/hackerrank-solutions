@@ -4,9 +4,8 @@
  * https://www.hackerrank.com/challenges/30-queues-stacks/
  */
 
-package com.thirtydaysofcode;
+package com.thirtydaysofcode.solutions;
 
-import java.io.*;
 import java.util.*;
 
 public class QueuesAndStacks {

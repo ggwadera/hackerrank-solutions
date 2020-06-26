@@ -4,7 +4,7 @@
  * https://www.hackerrank.com/challenges/30-scope/
  */
 
-package com.thirtydaysofcode;
+package com.thirtydaysofcode.solutions;
 
 import java.util.*;
 

@@ -4,7 +4,9 @@
  * https://www.hackerrank.com/challenges/30-linked-list/
  */
 
-package com.thirtydaysofcode;
+package com.thirtydaysofcode.solutions;
+
+import com.thirtydaysofcode.utils.Node;
 
 import java.util.Scanner;
 
