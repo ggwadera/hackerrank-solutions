@@ -1,3 +1,10 @@
+/**
+ * DAY 27/30
+ * Testing
+ * https://www.hackerrank.com/challenges/30-testing/
+ */
+package com.thirtydaysofcode;
+
 import java.util.*;
 
 public class Testing {

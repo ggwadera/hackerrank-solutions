@@ -1,4 +1,9 @@
-//https://www.hackerrank.com/challenges/30-nested-logic/
+/**
+ * DAY 26/30
+ * Nested Logic
+ * https://www.hackerrank.com/challenges/30-nested-logic/
+ */
+package com.thirtydaysofcode;
 
 import java.util.Arrays;
 import java.util.Scanner;

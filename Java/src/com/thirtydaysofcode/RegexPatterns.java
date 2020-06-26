@@ -1,3 +1,10 @@
+/**
+ * DAY 28/30
+ * RegEx, Patterns, and Intro to Databases
+ * https://www.hackerrank.com/challenges/30-regex-patterns
+ */
+package com.thirtydaysofcode;
+
 import java.util.*;
 import java.util.Map.Entry;
 
