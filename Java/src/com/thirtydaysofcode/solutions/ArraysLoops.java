@@ -9,7 +9,7 @@ package com.thirtydaysofcode.solutions;
 import java.util.Scanner;
 import java.util.StringJoiner;
 
-public class Arrays {
+public class ArraysLoops {
 
     private static final Scanner scanner = new Scanner(System.in);
 
