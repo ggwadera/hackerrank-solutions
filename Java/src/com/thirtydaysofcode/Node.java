@@ -1,7 +1,11 @@
 package com.thirtydaysofcode;
 
 /**
- * Node class used in some of the binary tree challenges
+ * Node class used in some of the challenges.
+ * Used in:
+ * - LinkedLists
+ * - BSTHeight
+ * - BreadthFirstTraversal
  */
 public class Node {
     Node left, right, next;
