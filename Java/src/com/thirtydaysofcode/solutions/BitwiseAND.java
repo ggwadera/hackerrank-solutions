@@ -1,3 +1,9 @@
+/**
+ * DAY 29/30
+ * Bitwise AND
+ * https://www.hackerrank.com/challenges/30-bitwise-and/
+ */
+
 package com.thirtydaysofcode.solutions;
 
 import java.util.Scanner;
